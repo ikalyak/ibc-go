@@ -274,5 +274,5 @@ Next ==
 \* Last modified Wed Dec 2  10:15:45 CET 2020 by andrey
 \* Last modified Fri Nov 20 12:37:38 CET 2020 by c
 \* Last modified Thu Nov 05 20:56:37 CET 2020 by andrey
-\* Last modified Fri Oct 30 21:52:38 CET 2020 by widder
+\* Last modified Fri Oct 30 21:52:38 CET 2020 by wider
 \* Created Thu Oct 29 20:45:55 CET 2020 by andrey
